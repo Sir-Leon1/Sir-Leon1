@@ -1,5 +1,5 @@
 <!-- Header -->
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<!--[](https://github.com/halfrost/halfrost/blob/master/icons/twitter.jpg)-->
 
 <h1 align="center">
   <!--<img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
