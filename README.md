@@ -40,12 +40,12 @@
   <a> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
   </a> 
-  &emsp;
+  &emsp;--->
   <a> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a> 
+  <!--<a> 
     <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
   </a>
   &emsp;-->
@@ -84,7 +84,7 @@
   <a>
     <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
   </a>
-  &emsp;
+  &emsp;--->
   <a>
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>-->
