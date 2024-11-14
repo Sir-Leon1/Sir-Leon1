@@ -11,7 +11,7 @@
 
 <!-- Counter -->
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
+  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSir-Leon1&count_bg=%233DA6C8&title_bg=%23123C8A&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false">
 </p>
 
 <p align="center">
